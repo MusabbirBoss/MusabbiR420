@@ -43,4 +43,4 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 ```
  TOOL USER : (Hello-World)</br>
  TOOL PASS : (---)</br>
- [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
+ [![Facebook](https://img.shields.io/badge/Facebook-MusabbiR-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
